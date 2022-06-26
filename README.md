@@ -15,6 +15,7 @@
 <a href="https://codeforces.com/profile/ahmed_esmail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmed_esmail" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmed_esmail1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_esmail1" height="30" width="40" /></a>
 </p>
+<br>
 
 
 
@@ -24,6 +25,7 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedesmail8&show_icons=true&locale=en&layout=compact" alt="ahmedesmail8" /></p>
+<br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedesmail8" alt="ahmedesmail8" /></a> </p>
