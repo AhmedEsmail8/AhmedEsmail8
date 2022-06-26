@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esmail</h1>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
 <h3 align="left">Computer Science student</h3>
 
 - 🌱 I’m currently learning **web development and AI**
 
 - 📫 How to reach me **ahmedesmail4716@gmail.com**
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="260" />
 
 <p>
 
