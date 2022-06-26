@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esmail</h1>
 <h3 align="left">Computer Science student</h3>
+<br>
 
 - 🌱 I’m currently learning **web development and AI**
 
