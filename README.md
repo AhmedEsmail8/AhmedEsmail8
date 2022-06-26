@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esmail</h1>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="260" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" />
 <h3 align="left">Computer Science student</h3>
 
 - 🌱 I’m currently learning **web development and AI**
