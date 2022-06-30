@@ -2,7 +2,7 @@
 <br>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
-<h3 align="left">Computer Science student</h3>
+<h2 align="left">Computer Science student</h2>
 
 - 🌱 I’m currently learning **web development and AI**
 
