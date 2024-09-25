@@ -4,7 +4,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="250" />
 <h2 align="left">Front End developer</h2>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **Back End development**
 
 - 📫 How to reach me **ahmedesmail4716@gmail.com**
 
